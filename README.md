@@ -105,7 +105,7 @@ git clone https://github.com/2420030113Harshini/CACD_Repository.git
 Navigate to the repository:
 
 ```bash
-cd Cryptanalysis-and-Cyber-Defence
+cd CACD_Repository
 ```
 
 Run the required program using the appropriate language interpreter or development environment.
